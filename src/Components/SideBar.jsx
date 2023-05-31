@@ -53,11 +53,11 @@ const SideBar = () => {
             onChange={handleChange}
           >
             <MenuItem value={"music"}>Music Equipment</MenuItem>
-            <MenuItem value={"Agriculture"}>Agriculture Equipment</MenuItem>
+            <MenuItem value={"agriculture"}>Agriculture Equipment</MenuItem>
             <MenuItem value={"flim"}>Flim Equipment</MenuItem>
-            <MenuItem value={"Commercial vehicle"}>Commercial vehicle Equipment</MenuItem>
+            <MenuItem value={"commercial vehicle"}>Commercial vehicle Equipment</MenuItem>
             <MenuItem value={"road"}>Road Equipment</MenuItem>
-            <MenuItem value={"Gaming"}>Gaming Equipment</MenuItem>
+            <MenuItem value={"gaming"}>Gaming Equipment</MenuItem>
           </Select>
         </FormControl>
       </Box>
